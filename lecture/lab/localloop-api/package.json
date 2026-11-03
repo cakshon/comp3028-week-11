@@ -1,0 +1,15 @@
+{
+  "name": "localloop-docker-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Beginner-friendly Node.js LocalLoop API for COMP3028 Lecture 11",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "UNLICENSED"
+}
